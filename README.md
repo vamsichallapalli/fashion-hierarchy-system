@@ -11,8 +11,6 @@ This project was developed as an assignment for Styli (Landmark Group) to demons
 - ➕ Add Root and Sub-categories
 - 📝 Edit Category Names
 - 🗑️ Delete Categories (with child category protection)
-- 🔄 Real-time Updates
-- 🎯 Intuitive Drag-and-Drop Interface
 - 🎨 Modern and Clean UI Design
 
 ## Tech Stack
